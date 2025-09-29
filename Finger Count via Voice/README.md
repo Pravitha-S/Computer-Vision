@@ -33,7 +33,7 @@ finger-count-voice/
 
 Here’s the working demo (click to play):
 
-https://github.com/Pravitha-S/computer-vision-projects/blob/main/finger-count-voice/demo.mov
+https://github.com/Pravitha-S/Computer-Vision/Finger Count via Voice/demo.MOV
 
 
 ## ⚡ Quick Start
