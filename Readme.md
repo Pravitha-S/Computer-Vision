@@ -12,3 +12,5 @@ This repository contains multiple CV projects and demos:
   <img width="578" height="864" alt="image" src="https://github.com/user-attachments/assets/b35c6a6f-0a77-429d-b6d2-5ad3eb8ad90b" />
 
 - `human-detect-email/` — Human detection with email alert using smtplib and medipipe.
+
+  Human Detected via Email/email alert screenshot.png
