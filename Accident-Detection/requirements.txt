@@ -1,0 +1,15 @@
+# Core ML & AI
+ultralytics==8.2.0       # YOLOv8 for accident detection
+torch>=2.0.0             # PyTorch backend
+transformers>=4.30.0     # Hugging Face Transformers (for T5 or other LLMs)
+
+# Computer Vision
+opencv-python>=4.7.0     # OpenCV for video processing
+pygame>=2.5.0            # For alarm sound
+
+# Web UI
+gradio>=4.0.0            # Gradio for interactive web app
+
+# Utilities
+numpy>=1.24.0            # Numerical computations
+pillow>=9.5.0            # Image handling
