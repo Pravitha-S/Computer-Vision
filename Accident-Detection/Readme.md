@@ -1,4 +1,4 @@
-# Accident Detection (YOLOv8 + Agentic AI)
+# Accident Detection (YOLOv8)
 
 This project detects potential collisions in traffic video with:
 - YOLOv8 for object detection & tracking
